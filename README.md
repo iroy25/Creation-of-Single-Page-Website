@@ -1,5 +1,5 @@
 # 🌐 Single Page Website 
-This project is a **Single Page Responsive Website** built using **HTML5, CSS3, Bootstrap 5, and JavaScript**.  
+This project is a **Single Page Responsive Website** built using **HTML, CSS, Bootstrap 5, and JavaScript**.  
 It is designed as a **minor project** to showcase essential web development concepts like responsive design, navigation, carousels, cards, and forms.  
 
 ---
